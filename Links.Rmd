@@ -2,7 +2,7 @@
 title: ""
 output: 
    html_document:
-     theme: cayman
+     theme: sandstone
      toc: true
      toc_float: true
      collapsed: false
