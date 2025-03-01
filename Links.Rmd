@@ -2,6 +2,7 @@
 title: ""
 output: 
    html_document:
+     theme: cayman
      toc: true
      toc_float: true
      collapsed: false
